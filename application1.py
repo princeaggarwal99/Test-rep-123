@@ -10,3 +10,6 @@ def add2
 
 def add3
 
+
+def subtraction (a,b):
+  return a-b
